@@ -1,4 +1,4 @@
-pyrogram
+pyrogram=2.23.1
 aiofiles
 sympy
 psutil
