@@ -3,3 +3,4 @@ aiofiles
 sympy
 psutil
 pytz
+tgcrypto
