@@ -453,5 +453,10 @@ async def get_chat_id(client, message):
     await message.edit_text(f"✶ɪᴅ ᴄʜᴀᴛ: <code>{chat_id}</code> ✶")
 
 
-print("nick")
+print("""
+
+█▀▀ █▀▀ █▀█ █▀█ █ █▄░█
+█▄█ ██▄ █▀▄ █▄█ █ █░▀█
+
+        ┓dev: i_ceic.t.me ┗""")
 app.run()
